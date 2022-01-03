@@ -108,6 +108,8 @@ public class BootStrapDemo1 {
 		
 		Thread.sleep(2000);
 		
+		driver.close();
+		
 		
 		
 		
